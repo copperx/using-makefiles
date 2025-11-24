@@ -4,7 +4,7 @@
 int main(void) {
     float x, y;
 
-    // TODO: prompt user for two floats
+    // prompt user for two floats
     printf("Enter first number: ");
     scanf("%f", &x);
 
@@ -23,4 +23,6 @@ int main(void) {
     }
 
     return 0;
+}
+
 }
